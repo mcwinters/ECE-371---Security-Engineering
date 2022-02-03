@@ -4,3 +4,4 @@ des.py: File to compute Data Encryption Standard (DES). We wrote the compute_s_b
 
 rsa.py: File to compute Rivest–Shamir–Adleman (RSA) public-key cryptosystem. We wrote all functions to recreate RSA, utilizing Euclidean math.
 
+main.py: File to run encryption + decryption, importing des.py and rsa.py
